@@ -1,0 +1,29 @@
+*{
+	margin:0;
+	padding: 0;
+	background-color: #77dd77;
+	color: #ffffff;
+	font-family: Arial;
+}
+body{
+	background-color: #77dd77;
+	margin-left: 450px;
+	margin-right: 450px;
+}
+body h1{
+	color: #ffffff;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 5px;
+}
+input{
+	text-align: justify;
+	background-color: white;
+	color: black;
+	width:250px;
+	height: 500px;
+}
+div{
+	text-align: center;
+	width: 285px;
+}

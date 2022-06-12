@@ -1,0 +1,18 @@
+*{
+	margin:0;
+	padding: 0;
+	background-color: #77dd77;
+	color: #ffffff;
+	font-family: Arial;
+}
+body h1{
+	color: #ffffff;
+	font-size: 20px;
+	text-align: center
+}
+#circulo{
+    background: white;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
