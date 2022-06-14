@@ -7,21 +7,26 @@
 }
 body{
 	background-color: #77dd77;
-	margin-left: 450px;
+	margin-left: 500px;
 	margin-right: 450px;
 }
 body h1{
 	color: #ffffff;
-	font-size: 20px;
+	font-size: 18px;
 	text-align: center;
 	margin-top: 5px;
 }
-input{
-	text-align: justify;
-	background-color: white;
-	color: black;
-	width:250px;
+textarea{
+	margin-left: 0;
+	width: 300px;
 	height: 500px;
+	color: black;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	background-color: #f8f8f8;
+	resize: none;
 }
 div{
 	text-align: center;
