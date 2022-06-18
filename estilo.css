@@ -1,0 +1,19 @@
+*{
+	margin: auto;
+	background-color: #77dd77;
+	color: white;
+	font-family: Arial;
+}
+div{
+	margin-top: 12em;
+	text-align: center;
+	background-color: #77dd77;
+}
+
+div h2{
+	font-size: 25px;
+}
+
+div input{
+	margin-right: 30em;
+}
